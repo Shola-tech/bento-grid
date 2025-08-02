@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Shola-tech/bento-grid](https://github.com/Shola-tech/bento-grid)
-- Live Site URL: _Coming soon on Netlify_
+- Live Site URL: [https://lucent-jelly-57f861.netlify.app/]
 
 ---
 
