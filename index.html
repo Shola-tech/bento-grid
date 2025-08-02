@@ -6,6 +6,8 @@
   <title>Bento Grid</title>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
   <style>
+
+    
     * {
       box-sizing: border-box;
     }
@@ -19,7 +21,7 @@
       font-family: 'DM Sans', sans-serif;
 
     }
-
+@media (max-width: 1440px){
     .grid-container {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
@@ -173,7 +175,8 @@
     .card8 h3{
       left: 0;
     }
-    @media (max-width: 1000px) {
+  }
+    @media (max-width: 375px) {
       .grid-container {
         grid-template-columns: 1fr;
         
@@ -185,7 +188,7 @@
       }
       .card3{
         overflow: auto;
-        align-items: center;
+        align-items: center; 
 
       }
       .card3 img{
